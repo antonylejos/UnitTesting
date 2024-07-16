@@ -30,6 +30,7 @@ namespace Bank
                 throw new ArgumentOutOfRangeException(nameof(amount));
             }
 
+            /*This code is to add balance*/
             balance += amount;
         }
 
