@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'Antony Self hosted'
+  name: 'Antony Self hosted'
 
 variables:
   buildConfiguration: 'Release'
