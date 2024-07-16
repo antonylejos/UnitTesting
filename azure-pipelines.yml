@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'Azure Pipelines'
+  vmImage: 'ANTONY-VASAI-L'
 
 variables:
   buildConfiguration: 'Release'
