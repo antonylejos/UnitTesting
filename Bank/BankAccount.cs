@@ -31,7 +31,7 @@ namespace Bank
             }
 
             /*This code is to add balance*/
-            balance += amount + 1;
+            balance += amount;
         }
 
         public void Withdraw(double amount)
